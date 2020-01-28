@@ -1,0 +1,158 @@
+
+.netDisplay {
+	box-sizing: border-box;
+	/*background-color:gray;*/
+}
+
+
+.carDouble{
+	/*background-color:red;*/
+	height:570px!important;
+	padding: 2px !important;
+} 
+
+.mri  {
+	padding: 5px;
+}
+
+.marT{
+	margin-top: 25px;
+}
+
+.subtitle {
+    position: absolute;
+    height: 40px;
+    background: black;
+    width: 100%;
+    left: 0px;
+    bottom: 0px;
+    opacity: 0.8;
+    border-top: 2px solid red;
+    color:white;
+    margin: 0px 4px;
+    padding: 5px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+.subSix {
+	margin: 0px 3px!important;
+}
+
+.labelTag {
+    position: absolute;
+    background: black;	
+    right: 5px;
+    top: 5px;
+    color:white;
+    padding: 2px;
+    font-size: 11px;
+    font-weight: 600;
+    margin: 5px;
+}
+
+
+.rounded {
+    border: 3px solid red;
+}
+
+
+.box {
+   /* border: 2px solid blue; */
+    height:285px;
+    overflow:hidden;
+    padding:2px!important;
+   /* height:auto;*/
+}
+
+
+
+.car {
+    height:285px;
+    overflow:hidden;
+    padding:2px!important;
+   /* height:auto;*/
+}
+
+.imageTagNormal {
+	width:130px;
+	height:75px;
+	
+}
+
+
+
+
+.vs__dropdown-menu {
+   height: 250px;
+   overflow-y:scroll;
+    list-style-type: none;
+   }
+
+.vs__dropdown-menu ul li {
+	float:left;
+  }
+
+.vs__selected {
+   position: absolute;
+   padding: 4px;
+  }
+
+.vs__clear {
+   margin: 4px;
+  }
+
+.boxAcol6 {
+   max-width: 49%;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 990px) {
+
+.col-sm-4 {
+  width: 32%;
+ }
+
+.imageTagNormal {
+	width: 80px;
+	height: 50px;
+	margin: 5px;
+}
+
+.mri {
+    padding: 0px 1px;
+}
+
+.rounded {
+   border: 2px solid red;
+}
+
+.boxAcol6 {
+
+    max-width: 100%;
+
+}
+
+
+
+
+}
+
+
+@media only screen and (max-width: 990px) and (orientation : landscape){
+	
+	.imageTagNormal {
+		width:130px;
+		height:75px;
+		margin: 4px;
+	}
+	.rounded {
+	    border: 3px solid red;
+	}
+
+
+}

@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 8c4c6aac51c83d4f4ff7ba50de4d0cc526e43a07 Marko Web <WebWhatMarko@gmail.com> 1579621769 +0100	commit (initial): testing something
+8c4c6aac51c83d4f4ff7ba50de4d0cc526e43a07 2dc59b8710a7d234d4711b960744716760d9b351 Marko Web <WebWhatMarko@gmail.com> 1579622143 +0100	commit: testing somethingb
+2dc59b8710a7d234d4711b960744716760d9b351 8956570ed9674cf3242275cfb737a57953fe28ab Marko Web <WebWhatMarko@gmail.com> 1579622853 +0100	commit: again makes a difference
+8956570ed9674cf3242275cfb737a57953fe28ab 8956570ed9674cf3242275cfb737a57953fe28ab Marko Web <WebWhatMarko@gmail.com> 1579622904 +0100	checkout: moving from master to login
+8956570ed9674cf3242275cfb737a57953fe28ab 0f364a5476a5fae17404dc3af0c242299fc0b8d3 Marko Web <WebWhatMarko@gmail.com> 1579622980 +0100	commit: login form
+0f364a5476a5fae17404dc3af0c242299fc0b8d3 8956570ed9674cf3242275cfb737a57953fe28ab Marko Web <WebWhatMarko@gmail.com> 1579623031 +0100	checkout: moving from login to master
+8956570ed9674cf3242275cfb737a57953fe28ab 0f364a5476a5fae17404dc3af0c242299fc0b8d3 Marko Web <WebWhatMarko@gmail.com> 1579623041 +0100	checkout: moving from master to login
+0f364a5476a5fae17404dc3af0c242299fc0b8d3 8956570ed9674cf3242275cfb737a57953fe28ab Marko Web <WebWhatMarko@gmail.com> 1579623051 +0100	checkout: moving from login to master
+8956570ed9674cf3242275cfb737a57953fe28ab 0f364a5476a5fae17404dc3af0c242299fc0b8d3 Marko Web <WebWhatMarko@gmail.com> 1579623148 +0100	merge login: Fast-forward
+0f364a5476a5fae17404dc3af0c242299fc0b8d3 fb223e829cef40277f49642d7e60a4239dac3488 Marko Web <WebWhatMarko@gmail.com> 1579624335 +0100	commit: new readme
+fb223e829cef40277f49642d7e60a4239dac3488 0448134ae47fd43b1035359843f1def8a365a388 Marko Web <WebWhatMarko@gmail.com> 1580034526 +0100	commit: adding new route comment
+0448134ae47fd43b1035359843f1def8a365a388 7a5f619faad2b70ef8728b0b9f67f76eba708778 Marko Web <WebWhatMarko@gmail.com> 1580035021 +0100	pull: Fast-forward
